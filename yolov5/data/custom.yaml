@@ -1,0 +1,9 @@
+
+train: /content/drive/MyDrive/Project_ML/Images/train
+val: /content/drive/MyDrive/Project_ML/Images/validation
+test: /content/drive/MyDrive/Project_ML/Images/test
+
+# Classes
+nc: 2
+names: ['Human', 'Non-human']  # class names
+
