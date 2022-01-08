@@ -1,4 +1,4 @@
-# Human and Non-human object detetion using YOLOv5
+# Human and Non-human object detetion from infrared images using YOLOv5
 
 
 
